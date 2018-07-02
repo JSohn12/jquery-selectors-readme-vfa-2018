@@ -1,8 +1,8 @@
-
+// declare your functions here...
 
 function paragraphSelector() {
   answer= $('p')
-  return answer
+  return answer;
 }
 
 function lastImageSelector() {
@@ -22,5 +22,5 @@ function divSelector() {
 
 function firstListItem() {
   answer= $('#pic-list li:first-child')
-  return answer
+  return answer;
 }
